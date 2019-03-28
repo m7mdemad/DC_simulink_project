@@ -26,7 +26,7 @@ So in the scheme we start with passing the signal through BPSK modulator and aft
 ### Simulink Model Diagram:
 ![Model](/BPSK/bpsk_scheme.PNG)
 ### Scatter Plot (Before and after the noise)
-![ScatterPlot(BeforeNoise)](/BPSK/bpsk_scatter_plot.PNG)
+![ScatterPlot](/BPSK/bpsk_scatter_plot.PNG)
 ### BER Performance Plot
 ![BER-Plot](/BPSK/bpsk_ber.PNG)
 
@@ -34,7 +34,7 @@ So in the scheme we start with passing the signal through BPSK modulator and aft
 ### Simulink Model Diagram:
 ![Model](/BPSK_rc/bpsk_rc_scheme.PNG)
 ### Scatter Plot (Before and after the noise)
-![ScatterPlot(BeforeNoise)](/BPSK_rc/bpsk_rc_scatter_plot.PNG)
+![ScatterPlot](/BPSK_rc/bpsk_rc_scatter_plot.PNG)
 ---
 # **Quadrature Phase Shift Keying (QPSK)**
 ## Explanation:
