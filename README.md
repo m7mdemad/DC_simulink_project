@@ -102,7 +102,7 @@ So in the scheme we start with passing the signal through QAM modulator and afte
 
 # **Frequency Shift Keying (FSK)**
 ## Explanation:
-Phase Shift Keying (PSK) is the digital modulation technique in which the phase of the carrier signal is changed by varying the sine and cosine inputs at a particular time. PSK has two types second one is QPSK. QPSK is phase shift keying technique, in which the sine wave carrier takes four phase reversals such as 0°, 90°, 180°, and 270°. Can be done by eight or sixteen values also.
+FSK is the digital modulation technique in which the frequency of the carrier signal varies according to the digital signal changes. The output of a FSK modulated wave is high in frequency for a binary High input and is low in frequency for a binary Low input.
 
 So in the scheme we start with passing the signal through FSK modulator and after the AWGN channel(simulating real channel) we receive the signal in FSK demodulator. Then we calculate the bit error rate.  
 
