@@ -32,9 +32,11 @@ So in the scheme we start with passing the signal through BPSK modulator and aft
 
 ## BPSK with Raised Cosine Filter
 ### Simulink Model Diagram:
-![Model](/BPSK_raised_cosine/bpsk_rc_scheme.png)
+![Model](/BPSK_raisd_cosine/bpsk_rc_scheme.png)
 ### Scatter Plot (Before and after the noise)
-![ScatterPlot](/BPSK_raised_cosine/bpsk_rc_scatter_plot.png)
+![ScatterPlot](/BPSK_raisd_cosine/bpsk_rc_scatter_plot.png)
+### BER Performance Plot
+![BER-Plot](/BPSK_raisd_cosine/bpsk_rc_ber.png)
 ---
 # **Quadrature Phase Shift Keying (QPSK)**
 ## Explanation:
@@ -52,11 +54,11 @@ So in the scheme we start with passing the signal through QPSK modulator and aft
 
 ## QPSK with Raised Cosine Filter
 ### Simulink Model Diagram:
-![Model](/QPSK_raised_cosine/qpsk_rc_scheme.png)
+![Model](/QPSK_raisd_cosine/qpsk_rc_scheme.png)
 ### Scatter Plot (Before and after the noise)
-![ScatterPlot](/QPSK_raised_cosine/qpsk_rc_scatter_plot.png)
+![ScatterPlot](/QPSK_raisd_cosine/qpsk_rc_scatter_plot.png)
 ### BER Performance Plot
-![BER-Plot](/QPSK_raised_cosine/qpsk_rc_ber.png)
+![BER-Plot](/QPSK_raisd_cosine/qpsk_rc_ber.png)
 
 ---
 # **Quadrature amplitude modulation (QAM)**
@@ -75,11 +77,11 @@ So in the scheme we start with passing the signal through QAM modulator and afte
 
 ## QAM_16 with Raised Cosine Filter
 ### Simulink Model Diagram:
-![Model](/QAM16_rc/qam16_rc_scheme.png)
+![Model](/QAM16_raisd_cosine/qam16_rc_scheme.png)
 ### Scatter Plot (Before and after the noise)
-![ScatterPlot](/QAM16_rc/qam16_rc_scatter_plot.png)
+![ScatterPlot](/QAM16_raisd_cosine/qam16_rc_scatter_plot.png)
 ### BER Performance Plot
-![BER-Plot](/QAM16_rc/qam16_rc_ber.png)
+![BER-Plot](/QAM16_raisd_cosine/qam16_rc_ber.png)
 
 ## QAM_64 without Raised Cosine Filter
 ### Simulink Model Diagram:
@@ -91,11 +93,11 @@ So in the scheme we start with passing the signal through QAM modulator and afte
 
 ## QAM_64 with Raised Cosine Filter
 ### Simulink Model Diagram:
-![Model](/QAM64_raised_cosine/qam64_rc_scheme.png)
+![Model](/QAM64_raisd_cosine/qam64_rc_scheme.png)
 ### Scatter Plot (Before and after the noise)
-![ScatterPlot](/QAM64_raised_cosine/qam64_rc_scatter_plot.png)
+![ScatterPlot](/QAM64_raisd_cosine/qam64_rc_scatter_plot.png)
 ### BER Performance Plot
-![BER-Plot](/QAM64_raised_cosine/qam64_rc_ber.png)
+![BER-Plot](/QAM64_raisd_cosine/qam64_rc_ber.png)
 
 
 # **Frequency Shift Keying (FSK)**
@@ -114,9 +116,9 @@ So in the scheme we start with passing the signal through FSK modulator and afte
 
 ## FSK with Raised Cosine Filter
 ### Simulink Model Diagram:
-![Model](/FSK_raised_cosine/fsk_rc_scheme.png)
+![Model](/FSK_raisd_cosine/fsk_rc_scheme.png)
 ### Scatter Plot (Before and after the noise)
-![ScatterPlot](/FSK_raised_cosine/fsk_rc_scatter_plot.png)
+![ScatterPlot](/FSK_raisd_cosine/fsk_rc_scatter_plot.png)
 ### BER Performance Plot
-![BER-Plot](/FSK_raised_cosine/fsk_rc_ber.png)
+![BER-Plot](/FSK_raisd_cosine/fsk_rc_ber.png)
 
