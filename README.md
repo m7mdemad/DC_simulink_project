@@ -26,7 +26,7 @@ So in the scheme we start with passing the signal through BPSK modulator and aft
 ### Simulink Model Diagram:
 ![Model](/BPSK/bpsk_scheme.PNG)
 ### Scatter Plot (Before and after the noise)
-![ScatterPlot](/BPSK/bpsk_scatter_plot.PNG)
+![ScatterPlot](/BPSK/bpsk_scatter_plot.png)
 ### BER Performance Plot
 ![BER-Plot](/BPSK/bpsk_ber.PNG)
 
