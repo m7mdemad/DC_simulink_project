@@ -24,17 +24,17 @@ So in the scheme we start with passing the signal through BPSK modulator and aft
 
 ## BPSK without Raised Cosine Filter
 ### Simulink Model Diagram:
-![Model](/BPSK/bpsk_scheme.PNG)
+![Model](/BPSK/bpsk_scheme.png)
 ### Scatter Plot (Before and after the noise)
 ![ScatterPlot](/BPSK/bpsk_scatter_plot.png)
 ### BER Performance Plot
-![BER-Plot](/BPSK/bpsk_ber.PNG)
+![BER-Plot](/BPSK/bpsk_ber.png)
 
 ## BPSK with Raised Cosine Filter
 ### Simulink Model Diagram:
-![Model](/BPSK_rc/bpsk_rc_scheme.PNG)
+![Model](/BPSK_raised_cosine/bpsk_rc_scheme.png)
 ### Scatter Plot (Before and after the noise)
-![ScatterPlot](/BPSK_rc/bpsk_rc_scatter_plot.PNG)
+![ScatterPlot](/BPSK_raised_cosine/bpsk_rc_scatter_plot.png)
 ---
 # **Quadrature Phase Shift Keying (QPSK)**
 ## Explanation:
@@ -44,19 +44,19 @@ So in the scheme we start with passing the signal through QPSK modulator and aft
 
 ## QPSK without Raised Cosine Filter
 ### Simulink Model Diagram:
-![Model](/QPSK/qpsk_scheme.PNG)
+![Model](/QPSK/qpsk_scheme.png)
 ### Scatter Plot (Before and after the noise)
-![ScatterPlot](/QPSK/qpsk_scatter_plot.PNG)
+![ScatterPlot](/QPSK/qpsk_scatter_plot.png)
 ### BER Performance Plot
-![BER-Plot](/QPSK/qpsk_ber.PNG)
+![BER-Plot](/QPSK/qpsk_ber.png)
 
 ## QPSK with Raised Cosine Filter
 ### Simulink Model Diagram:
-![Model](/QPSK_rc/qpsk_rc_scheme.PNG)
+![Model](/QPSK_raised_cosine/qpsk_rc_scheme.png)
 ### Scatter Plot (Before and after the noise)
-![ScatterPlot](/QPSK_rc/qpsk_rc_scatter_plot.PNG)
+![ScatterPlot](/QPSK_raised_cosine/qpsk_rc_scatter_plot.png)
 ### BER Performance Plot
-![BER-Plot](/QPSK_rc/qpsk_rc_ber.PNG)
+![BER-Plot](/QPSK_raised_cosine/qpsk_rc_ber.png)
 
 ---
 # **Quadrature amplitude modulation (QAM)**
@@ -67,35 +67,35 @@ So in the scheme we start with passing the signal through QAM modulator and afte
 
 ## QAM_16 without Raised Cosine Filter
 ### Simulink Model Diagram:
-![Model](/QAM16/qam16_scheme.PNG)
+![Model](/QAM16/qam16_scheme.png)
 ### Scatter Plot (Before and after the noise)
-![ScatterPlot](/QAM16/qam16_scatter_plot.PNG)
+![ScatterPlot](/QAM16/qam16_scatter_plot.png)
 ### BER Performance Plot
-![BER-Plot](/QAM16/qam16_ber.PNG)
+![BER-Plot](/QAM16/qam16_ber.png)
 
 ## QAM_16 with Raised Cosine Filter
 ### Simulink Model Diagram:
-![Model](/QAM16_rc/qam16_rc_scheme.PNG)
+![Model](/QAM16_rc/qam16_rc_scheme.png)
 ### Scatter Plot (Before and after the noise)
-![ScatterPlot](/QAM16_rc/qam16_rc_scatter_plot.PNG)
+![ScatterPlot](/QAM16_rc/qam16_rc_scatter_plot.png)
 ### BER Performance Plot
-![BER-Plot](/QAM16_rc/qam16_rc_ber.PNG)
+![BER-Plot](/QAM16_rc/qam16_rc_ber.png)
 
 ## QAM_64 without Raised Cosine Filter
 ### Simulink Model Diagram:
-![Model](/QAM64/qam64_scheme.PNG)
+![Model](/QAM64/qam64_scheme.png)
 ### Scatter Plot (Before and after the noise)
-![ScatterPlot](/QAM64/qam64_scatter_plot.PNG)
+![ScatterPlot](/QAM64/qam64_scatter_plot.png)
 ### BER Performance Plot
-![BER-Plot](/QAM64/qam64_ber.PNG)
+![BER-Plot](/QAM64/qam64_ber.png)
 
 ## QAM_64 with Raised Cosine Filter
 ### Simulink Model Diagram:
-![Model](/QAM64_rc/qam64_rc_scheme.PNG)
+![Model](/QAM64_raised_cosine/qam64_rc_scheme.png)
 ### Scatter Plot (Before and after the noise)
-![ScatterPlot](/QAM64_rc/qam64_rc_scatter_plot.PNG)
+![ScatterPlot](/QAM64_raised_cosine/qam64_rc_scatter_plot.png)
 ### BER Performance Plot
-![BER-Plot](/QAM64_rc/qam64_rc_ber.PNG)
+![BER-Plot](/QAM64_raised_cosine/qam64_rc_ber.png)
 
 
 # **Frequency Shift Keying (FSK)**
@@ -106,17 +106,17 @@ So in the scheme we start with passing the signal through FSK modulator and afte
 
 ## FSK without Raised Cosine Filter
 ### Simulink Model Diagram:
-![Model](/FSK/fsk_scheme.PNG)
+![Model](/FSK/fsk_scheme.png)
 ### Scatter Plot (Before and after the noise)
-![ScatterPlot](/FSK/fsk_scatter_plot.PNG)
+![ScatterPlot](/FSK/fsk_scatter_plot.png)
 ### BER Performance Plot
-![BER-Plot](/FSK/fsk_ber.PNG)
+![BER-Plot](/FSK/fsk_ber.png)
 
 ## FSK with Raised Cosine Filter
 ### Simulink Model Diagram:
-![Model](/FSK_rc/fsk_rc_scheme.PNG)
+![Model](/FSK_raised_cosine/fsk_rc_scheme.png)
 ### Scatter Plot (Before and after the noise)
-![ScatterPlot](/FSK_rc/fsk_rc_scatter_plot.PNG)
+![ScatterPlot](/FSK_raised_cosine/fsk_rc_scatter_plot.png)
 ### BER Performance Plot
-![BER-Plot](/FSK_rc/fsk_rc_ber.PNG)
+![BER-Plot](/FSK_raised_cosine/fsk_rc_ber.png)
 
